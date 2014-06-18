@@ -2,6 +2,8 @@
 
 This is vim syntax for RSpec(Serverspec) result.
 
+![](http://i.vimeocdn.com/video/479319051_640.jpg)
+
 ## Requirement
 
  * [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun)
